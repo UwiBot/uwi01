@@ -2,20 +2,20 @@ Module : https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T06260
 <p align="center">
     <img src="https://telegra.ph/file/eaabc97cb81180be2c9a6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">KannaBOT - MD</h1>
+<h1 align="center">UwiiBot - MD</h1>
 <p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/UwiBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
  <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/LeonGantengz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zakuro-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/UwiBot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zakuro-blue.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285608625102">
+  <a href="https://wa.me/6281261632688">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/leonvx._">
@@ -26,44 +26,44 @@ Module : https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T06260
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6285736178354"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+62895410472842) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285608625102) 
+## ```Whatsapp``` <a href="https://wa.me/6281261632688"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6281261632688) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281261632688) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/ya4dpmdv) 
 ---------
 
 #### KELEBIHAN 🪄
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/ImYanXiao) |
-| **No Internet** |[✔️](https://github.com/ImYanXiao) |
-| **Simple** |[✔️](https://github.com/ImYanXiao) |
-| **Button template** |[✔️](https://github.com/ImYanXiao) |
-| **Multi Device** |[✔️](https://github.com/ImYanXiao) |
+| **Fast Respon** |[✔️](https://github.com/UwiBot) |
+| **No Internet** |[✔️](https://github.com/UwiBot) |
+| **Simple** |[✔️](https://github.com/UwiBot) |
+| **Button template** |[✔️](https://github.com/UwiBot) |
+| **Multi Device** |[✔️](https://github.com/UwiBot) |
 ---------
 #### FITUR 🎀
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/ImYanXiao) |
-| **Internet** |[✔️](https://github.com/ImYanXiao) |
-| **Game Rpg** |[✔️](https://github.com/ImYanXiao) |
-| **Nsfw** |[✔️](https://github.com/ImYanXiao) |
-| **Sticker** |[✔️](https://github.com/ImYanXiao) |
-| **Game** |[✔️](https://github.com/ImYanXiao) |
-| **Kerang Ajaib** |[✔️](https://github.com/ImYanXiao) |
-| **Quotes** |[✔️](https://github.com/ImYanXiao) |
-| **Anime** |[✔️](https://github.com/ImYanXiao) |
-| **Premium** |[✔️](https://github.com/ImYanXiao) |
-| **Tools** |[✔️](https://github.com/ImYanXiao) |
-| **Exec** |[✔️](https://github.com/ImYanXiao) |
-| **React** |[✔️](https://github.com/ImYanXiao) |
+| **Downloader** |[✔️](https://github.com/UwiBot) |
+| **Internet** |[✔️](https://github.com/UwiBot) |
+| **Game Rpg** |[✔️](https://github.com/UwiBot) |
+| **Nsfw** |[✔️](https://github.com/UwiBot) |
+| **Sticker** |[✔️](https://github.com/UwiBot) |
+| **Game** |[✔️](https://github.com/UwiBot) |
+| **Kerang Ajaib** |[✔️](https://github.com/UwiBot) |
+| **Quotes** |[✔️](https://github.com/UwiBot) |
+| **Anime** |[✔️](https://github.com/UwiBot) |
+| **Premium** |[✔️](https://github.com/UwiBot) |
+| **Tools** |[✔️](https://github.com/UwiBot) |
+| **Exec** |[✔️](https://github.com/UwiBot) |
+| **React** |[✔️](https://github.com/UwiBot) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/LeonGantengz/kannaxyui-multidevice/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/UwiBot/uwi01/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/UwiBot/uwi01/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/UwiBot/uwi01/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
@@ -81,7 +81,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+$ git clone https://github.com/UwiBot/uwi01
 $ cd Kanna-MultiDevice
 $ npm i 
 ```
@@ -124,7 +124,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+git clone https://github.com/UwiBot/uwi01
 cd Kanna-MultiDevice
 npm install
 npm update
@@ -140,7 +140,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+git clone https://github.com/UwiBot/uwi01
 cd Kanna-MultiDevice
 npm install
 npm update
@@ -233,20 +233,20 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/ImYanXiao)
-* [`My parents`](https://github.com/ImYanXiao)
-* [`All Friends`](https://github.com/ImYanXiao)
-* [`All Contributors`](https://github.com/ImYanXiao)
-* [`All Creator Bot`](https://github.com/ImYanXiao)
+* [`Allah SWT`](https://github.com/UwiBot)
+* [`My parents`](https://github.com/UwiBot)
+* [`All Friends`](https://github.com/UwiBot)
+* [`All Contributors`](https://github.com/UwiBot)
+* [`All Creator Bot`](https://github.com/UwiBot)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
 * [`KannaChan`](https://github.com/kannachann)
-* [`LeonGanz`](https://github.com/LeonGantengz)
+* [`Uwii`](https://github.com/UwiBot)
  
 
 ## ```Recode By ✏️```
-[![Zakuro](https://github.com/Bl4ck-lion.png?size=70)](https://github.com/ImYanXiao)
+[![Uwii](https://github.com/Bl4ck-lion.png?size=70)](https://github.com/UwiBot)
 
 ## ```Contributor 🤝```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
@@ -255,3 +255,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Rominaru`](https://github.com/rominaru)
 * [`KannaChan`](https://github.com/kannachann)
 * [`Fahri Adison`](https://github.com/FahriAdison) 
+* [`Uwii`](https://github.com/UwiBot) 
